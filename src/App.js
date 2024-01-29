@@ -35,7 +35,7 @@ function App() {
 	return (
 		<div className="App">
 			<Header />
-			<div className="content-wrap">
+			<div className="content-wrap"> 
 				<Sidebar 
 					topAnime={topAnime} />
 				<MainContent
